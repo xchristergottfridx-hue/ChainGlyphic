@@ -98,3 +98,7 @@ spline-viewer::part(branding) {
 .hero-buttons a {
   cursor: pointer;
 }
+
+.hero-buttons{
+  z-index: 2;
+}
