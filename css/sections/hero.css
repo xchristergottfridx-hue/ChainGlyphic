@@ -6,7 +6,7 @@ spline-viewer {
   display: flex;
   left: -70vh;
   top: 60px;
-  z-index: 1000;
+  z-index: 2;
 }
 
 spline-viewer::part(branding) {
